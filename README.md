@@ -1,2 +1,2 @@
 # done
-Here will be my very finished projects
+Here will be my finished projects
